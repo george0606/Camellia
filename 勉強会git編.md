@@ -8,8 +8,8 @@ marp: true
 ## 1. アカウントの作成
 
 1. [GitHub](https://github.com/)にアクセスし、画面右上の「Sign up」をクリックします。
-2. メールアドレス、パスワード、ユーザー名を入力し、「Create account」をクリックします。
-3. メールアドレスの確認を求められるので、メールを確認し、指示に従って確認を完了します。
+2. 必要な情報を入力し、「Create account」をクリックします。
+3. メールアドレスの確認を完了します。
 
 ## 2. GitHub製品の選択
 
@@ -21,7 +21,7 @@ marp: true
 ## 3. 二要素認証の設定
 
 1. アカウントのセキュリティを強化するために、二要素認証（2FA）を設定します。
-2. 「Settings」 > 「Security」 > 「Enable two-factor authentication」を選択し、指示に従って設定を完了します。
+2. 「Settings」 > 「Security」 > 「Enable two-factor authentication」を選択し、設定を完了します。
 
 詳細は[二要素認証について](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)を参照してください。
 
@@ -60,3 +60,4 @@ marp: true
 - [GitHubアカウントの作成](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 - [プロフィールの設定](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
 - [Markdownの基本](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
